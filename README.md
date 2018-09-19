@@ -1,4 +1,3 @@
 # Tokyo Dog-Friendly Cafe
 
-This is a place to collect dog-friendly cafes in Tokyo :dog:
-
+Software Design １０月号に記載内容の通りに練習しています。
